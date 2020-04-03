@@ -1,8 +1,8 @@
 {
-    "name": "aryashreep/music_theme",
+    "name": "aryashreep/musictheme",
     "type": "drupal-custom-theme",
     "description": "Drupal 8 theme for music site.",
-    "homepage": "https://github.com/aryashreep/music_theme",
+    "homepage": "https://github.com/aryashreep/musictheme",
     "license": "GPL-2.0+",
     "authors": [
       {
