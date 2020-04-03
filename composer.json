@@ -1,0 +1,14 @@
+{
+    "name": "aryashreep/music_theme",
+    "type": "drupal-custom-module",
+    "description": "Drupal 8 theme for music site.",
+    "homepage": "https://github.com/aryashreep/music_theme",
+    "license": "GPL-2.0+",
+    "authors": [
+      {
+        "name": "Aryashree Pritikrishna (aryashreep)",
+        "homepage": "https://www.drupal.org/u/aryashreep",
+        "role": "Maintainer"
+      }
+    ]
+}
