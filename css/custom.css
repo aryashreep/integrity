@@ -91,7 +91,7 @@ header#header {
   box-shadow: 0 4px 5px rgba(0,0,0,.1);
 }
 #logo img, .site-logo img {
-  max-width: 180px;
+  max-width: 68px;
 }
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
   background-color: #2C3A4D;
